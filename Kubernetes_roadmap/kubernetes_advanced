@@ -1,0 +1,38 @@
+lsDay 1: Kubernetes Security
+
+Read the "Security Overview" guide on the Kubernetes website: https://kubernetes.io/docs/concepts/security/overview/
+Watch the "Kubernetes Security" video on the Kubernetes website: https://kubernetes.io/docs/concepts/security/
+Read the "Security" chapter in the Kubernetes Up & Running book by Brendan Burns, Joe Beda, and Kelsey Hightower: https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/ch04.html
+Day 2: Kubernetes Custom Resource Definitions (CRDs)
+
+Read the "Custom Resources" guide on the Kubernetes website: https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/
+Watch the "Kubernetes Custom Resource Definitions (CRDs)" video on the Kubernetes website: https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/#custom-resource-definitions
+Read the "Extending the Kubernetes API with CustomResourceDefinitions" article by Kelsey Hightower: https://kubernetes.io/blog/2017/05/extending-go-client-with-dynamic/
+Day 3: Kubernetes Operators
+
+Read the "What is an Operator?" guide on the Kubernetes website: https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
+Watch the "Kubernetes Operators" video on the Kubernetes website: https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
+Read the "Kubernetes Operators" chapter in the Kubernetes Up & Running book by Brendan Burns, Joe Beda, and Kelsey Hightower: https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/ch06.html
+Day 4: Kubernetes Federation
+
+Read the "Kubernetes Federation" guide on the Kubernetes website: https://kubernetes.io/docs/concepts/cluster-administration/federation/
+Watch the "Kubernetes Federation" video on the Kubernetes website: https://kubernetes.io/docs/concepts/cluster-administration/federation/
+Read the "Kubernetes Federation" chapter in the Kubernetes Up & Running book by Brendan Burns, Joe Beda, and Kelsey Hightower: https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/ch09.html
+Day 5: Kubernetes Advanced Scheduling
+
+Read the "Kubernetes Scheduling" guide on the Kubernetes website: https://kubernetes.io/docs/concepts/scheduling-eviction/
+Watch the "Kubernetes Scheduling" video on the Kubernetes website: https://kubernetes.io/docs/concepts/scheduling-eviction/
+Read the "Kubernetes Advanced Scheduling" chapter in the Kubernetes in Action book by Marko Luksa: https://www.manning.com/books/kubernetes-in-action-second-edition
+Day 6: Kubernetes Istio Service Mesh
+
+Read the "Istio Service Mesh" guide on the Kubernetes website: https://kubernetes.io/docs/concepts/extend-kubernetes/service-catalog/
+Watch the "Istio Service Mesh" video on the Kubernetes website: https://kubernetes.io/docs/concepts/extend-kubernetes/service-catalog/
+Read the "Istio Service Mesh" chapter in the Kubernetes in Action book by Marko Luksa: https://www.manning.com/books/kubernetes-in-action-second-edition
+Day 7: Kubernetes Stateful Applications
+
+Read the "StatefulSet" guide on the Kubernetes website: https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
+Watch the "Kubernetes StatefulSet" video on the Kubernetes website:
+
+Kubernetes (https://kubernetes.io/docs/concepts/security/overview/)
+Overview of Cloud Native Security
+A model for thinking about Kubernetes security in the context of Cloud Native security.
