@@ -1,0 +1,45 @@
+Day 1: Terraform Providers and Modules
+Read the Terraform Providers documentation: https://www.terraform.io/docs/providers/index.html
+Learn how to create custom Terraform Providers: https://www.terraform.io/docs/providers/developing/index.html
+Understand how to use Modules to organize your Terraform code: https://www.terraform.io/docs/modules/index.html
+Try creating and using a Terraform Module: https://www.terraform.io/docs/modules/create.html
+
+
+Day 2: Terraform State Management
+Understand how Terraform State works: https://www.terraform.io/docs/state/index.html
+Learn how to use Remote State: https://www.terraform.io/docs/state/remote.html
+Understand how to use Terraform Workspaces: https://www.terraform.io/docs/state/workspaces.html
+Try managing state with Terraform Cloud: https://www.terraform.io/docs/cloud/run/index.html
+
+
+Day 3: Advanced Terraform Syntax and Techniques
+Learn about Terraform Data Sources: https://www.terraform.io/docs/configuration/data-sources.html
+Understand how to use Interpolation Syntax: https://www.terraform.io/docs/configuration/interpolation.html
+Learn how to use Count and For Each to create multiple resources: https://www.terraform.io/docs/configuration/meta-arguments/count.html
+Try using Complex Types in your Terraform Configuration: https://www.terraform.io/docs/configuration/types.html
+
+
+Day 4: Advanced Infrastructure as Code
+Learn about the Infrastructure as Code (IaC) concept: https://en.wikipedia.org/wiki/Infrastructure_as_code
+Understand the benefits and challenges of using IaC: https://www.hashicorp.com/resources/what-is-infrastructure-as-code
+Learn about Test Driven Infrastructure and how to implement it with Terraform: https://www.hashicorp.com/blog/test-driven-infrastructure-with-terraform
+Try using GitOps principles to manage your Terraform Configuration: https://www.weave.works/blog/gitops-with-terraform
+
+
+Day 5: Terraform and Cloud Services
+Learn how to use Terraform with AWS: https://www.terraform.io/docs/providers/aws/index.html
+Understand how to use Terraform with Google Cloud Platform: https://www.terraform.io/docs/providers/google/index.html
+Learn how to use Terraform with Microsoft Azure: https://www.terraform.io/docs/providers/azurerm/index.html
+#Try creating an Infrastructure as Code pipeline using Terraform and Cloud services.
+
+
+Day 6: Terraform Security and Compliance
+Understand how to manage secrets in Terraform: https://www.terraform.io/docs/providers/index.html
+#Learn about Terraform Sentinel and how to implement policy as code: https://www.terraform.io/docs/cloud/sentinel/index.html
+Understand how to use Terraform with Security and Compliance frameworks: https://www.hashicorp.com/resources/terraform-security-compliance
+
+
+Day 7: Advanced Terraform Use Cases
+Understand how to use Terraform with Containers: https://www.terraform.io/docs/providers/docker/index.html
+Learn how to use Terraform with Kubernetes: https://www.terraform.io/docs/providers/kubernetes/index.html
+Try using Terraform to manage Service Meshes: https://www.hashicorp.com/resources/service-mesh-deployment-with-terraform

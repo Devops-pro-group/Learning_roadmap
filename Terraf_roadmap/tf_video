@@ -1,0 +1,14 @@
+"Introduction to Terraform" by HashiCorp: https://www.youtube.com/watch?v=SLB_c_ayRMo
+This is an official HashiCorp video that provides an overview of Terraform and how it works.
+
+"Terraform Tutorial for Beginners" by TechWorld with Nana: https://www.youtube.com/watch?v=2v9I3h3ZCnw
+This video is a great place to start for beginners, as it provides an introduction to Terraform and walks you through deploying a basic infrastructure on AWS.
+
+"Terraform Tutorial" by freeCodeCamp.org: https://www.youtube.com/watch?v=6bX2CmJf0EU
+This video is a more comprehensive tutorial that covers various Terraform topics, including AWS, modules, and best practices.
+
+"Terraform: Beyond the Basics" by Cloud Posse: https://www.youtube.com/watch?v=JRLdbt7vK-E
+This video is geared towards intermediate-level Terraform users and covers advanced topics like remote state and module composition.
+
+"Terraform for Kubernetes" by Kubernetes Academy: https://www.youtube.com/watch?v=bwV0CKaMElg
+This video explains how to use Terraform to deploy a Kubernetes cluster on AWS.

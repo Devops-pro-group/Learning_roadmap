@@ -1,0 +1,39 @@
+Day 1: Getting started with Terraform
+Read the official Terraform introduction: https://www.terraform.io/intro/index.html
+Install Terraform: https://www.terraform.io/downloads.html
+Try out a simple Terraform configuration: https://www.terraform.io/intro/getting-started/build.html
+
+
+Day 2: Managing AWS infrastructure with Terraform
+Read the Terraform AWS provider documentation: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+Try deploying an AWS EC2 instance with Terraform: https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started
+Learn how to manage AWS infrastructure with Terraform: https://learn.hashicorp.com/tutorials/terraform/aws-configure?in=terraform/aws-get-started
+
+
+Day 3: Terraform modules and variables
+Learn how to use modules to organize your Terraform code: https://www.terraform.io/docs/modules/index.html
+Understand how to use input and output variables: https://www.terraform.io/docs/configuration/variables.html
+Try creating a Terraform module and using variables: https://www.terraform.io/docs/modules/create.html
+
+
+Day 4: Advanced Terraform topics
+Learn about Terraform state and how it tracks resources: https://www.terraform.io/docs/state/index.html
+Understand how to use remote state with Terraform: https://www.terraform.io/docs/state/remote.html
+Learn how to use Terraform workspaces to manage multiple environments: https://www.terraform.io/docs/state/workspaces.html
+
+
+Day 5: Testing and debugging Terraform code
+Learn how to test your Terraform code with Terratest: https://terratest.gruntwork.io/
+Understand how to debug Terraform issues: https://www.terraform.io/docs/internals/debugging.html
+Try out some Terraform debugging techniques: https://medium.com/@kief/terraform-debugging-techniques-6d2610c36712
+
+
+Day 6: Working with Kubernetes and Terraform
+Learn how to use the Kubernetes provider for Terraform: https://www.terraform.io/docs/providers/kubernetes/index.html
+Try deploying a Kubernetes cluster with Terraform: https://learn.hashicorp.com/tutorials/terraform/kubernetes-provider
+Understand how to manage Kubernetes resources with Terraform: https://www.terraform.io/docs/providers/kubernetes/resources/index.html
+
+
+Day 7: Putting it all together
+Review all the topics covered so far and try creating a more complex Terraform configuration.
+Read through the official Terraform documentation and continue exploring topics that interest you: https://www.terraform.io/docs/index.html
