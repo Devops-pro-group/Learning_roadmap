@@ -1,0 +1,51 @@
+Week 1:
+
+Day 1: Kubernetes Introduction
+
+Read "Kubernetes Basics" from the official Kubernetes documentation: https://kubernetes.io/docs/tutorials/kubernetes-basics/
+Watch "Kubernetes 101" video from the Kubernetes YouTube channel: https://www.youtube.com/watch?v=PH-2FfFD2PU
+Day 2: Kubernetes Architecture
+
+Read "Kubernetes Components" from the official Kubernetes documentation: https://kubernetes.io/docs/concepts/overview/components/
+Watch "Kubernetes Architecture" video from the Kubernetes YouTube channel: https://www.youtube.com/watch?v=HlAXp0-M6SY
+Day 3: Kubernetes Objects
+
+Read "Kubernetes Objects" from the official Kubernetes documentation: https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/
+Complete the "Kubernetes Objects" tutorial from Katacoda: https://www.katacoda.com/courses/kubernetes/creating-kubernetes-objects-intro
+Day 4: Kubernetes Deployments
+
+Read "Deployments" from the official Kubernetes documentation: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+Complete the "Deploying Kubernetes Applications" tutorial from Katacoda: https://www.katacoda.com/courses/kubernetes/deploying-first-pod
+Day 5: Kubernetes Services
+
+Read "Services" from the official Kubernetes documentation: https://kubernetes.io/docs/concepts/services-networking/service/
+Complete the "Kubernetes Services" tutorial from Katacoda: https://www.katacoda.com/courses/kubernetes/services
+Day 6: Kubernetes Networking
+
+Read "Kubernetes Networking" from the official Kubernetes documentation: https://kubernetes.io/docs/concepts/cluster-administration/networking/
+Watch "Kubernetes Networking Demystified" video from the Kubernetes YouTube channel: https://www.youtube.com/watch?v=0Omvgd7Hg1I
+Day 7: Kubernetes Resource Management
+
+Read "Managing Compute Resources for Containers" from the official Kubernetes documentation: https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
+Watch "Kubernetes Resource Management" video from the Kubernetes YouTube channel: https://www.youtube.com/watch?v=3zZsM2k2ngI
+Week 2:
+
+Day 8: Kubernetes Horizontal Pod Autoscaler
+
+Read "Horizontal Pod Autoscaler" from the official Kubernetes documentation: https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/
+Complete the "Horizontal Pod Autoscaler" tutorial from Katacoda: https://www.katacoda.com/courses/kubernetes/horizontal-pod-autoscale
+Day 9: Kubernetes Persistent Storage
+
+Read "Persistent Volumes" from the official Kubernetes documentation: https://kubernetes.io/docs/concepts/storage/persistent-volumes/
+Complete the "Persistent Volumes" tutorial from Katacoda: https://www.katacoda.com/courses/kubernetes/persistent-volumes
+Day 10: Kubernetes StatefulSets
+
+Read "StatefulSets" from the official Kubernetes documentation: https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
+Complete the "StatefulSets" tutorial from Katacoda: https://www.katacoda.com/courses/kubernetes/statefulsets
+Day 11: Kubernetes RBAC
+
+Read "Using RBAC Authorization" from the official Kubernetes documentation: https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+
+Kubernetes (https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+Learn Kubernetes Basics
+<!DOCTYPE html> Kubernetes Basics This tutorial provides a walkthrough of the basics of the Kubernetes cluster orchestration system. Each module contains some background information on major Kubernetes features and concepts, and includes an interactive online tutorial. These interactive tutorials let you manage a simple cluster and its containerized applications for yourself.
