@@ -1,0 +1,28 @@
+Day 1: Kubernetes Security
+
+"Kubernetes Security Best Practices" by Mete Atamel: https://www.youtube.com/watch?v=8iLb9krfWGk
+"Kubernetes Security Essentials" by Liz Rice: https://www.youtube.com/watch?v=he21Ijj9XpU
+Day 2: Kubernetes Custom Resource Definitions (CRDs)
+
+"Custom Resource Definitions: Extending Kubernetes APIs" by Marc Boorshtein: https://www.youtube.com/watch?v=2vMEQ5zs1ko
+"Kubernetes Deep Dive: CRD's and API Extension" by Nigel Poulton: https://www.youtube.com/watch?v=GeMg7eDh4F8
+Day 3: Kubernetes Operators
+
+"Kubernetes Operators: What, Why, and How" by Rob Szumski: https://www.youtube.com/watch?v=Sp5t0ZuV7a4
+"Deep Dive into Kubernetes Operators" by Jason Dobies: https://www.youtube.com/watch?v=5yr3m9i1x_k
+Day 4: Kubernetes Federation
+
+"Kubernetes Federation: Running Kubernetes clusters across regions or providers" by David Aronchick: https://www.youtube.com/watch?v=LjlQvUT3qIM
+"Kubernetes Cluster Federation and Multi-Cluster Management" by Kelsey Hightower: https://www.youtube.com/watch?v=fvIytcEb2Qw
+Day 5: Kubernetes Advanced Scheduling
+
+"Kubernetes Scheduling in Depth" by Tim Hockin: https://www.youtube.com/watch?v=NJlUygfsYnY
+"Advanced Scheduling in Kubernetes" by Mark Betz: https://www.youtube.com/watch?v=V7p9Y9JKjv8
+Day 6: Kubernetes Istio Service Mesh
+
+"Istio and Kubernetes: The Perfect Match" by Zack Butcher: https://www.youtube.com/watch?v=xF6U7FQfWm4
+"Istio: How it Works and What You Need to Know" by Daniel Bryant: https://www.youtube.com/watch?v=UJ1cUZKDXDk
+Day 7: Kubernetes Stateful Applications
+
+"Stateful Applications in Kubernetes" by Liz Rice: https://www.youtube.com/watch?v=Woyd1WLyYJg
+"Kubernetes StatefulSets in Production: A Love Story" by Piotr Kliczewski: https://www.youtube.com/watch?v=XRjKsgvNNSE
