@@ -1,0 +1,44 @@
+Week 1:
+
+Day 1: Introduction to Ansible
+
+Introduction to Ansible: https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html
+Ansible Tutorial for Beginners: https://www.youtube.com/watch?v=ic1jJlfh9R0
+Day 2: Ansible Playbooks
+
+Ansible Playbooks: https://docs.ansible.com/ansible/latest/user_guide/playbooks.html
+Ansible Playbooks Tutorial: https://www.youtube.com/watch?v=MJ0yjS8pS5I
+Day 3: Ansible Modules
+
+Ansible Modules: https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
+Ansible Modules Tutorial: https://www.youtube.com/watch?v=XmZtMH-QD2w
+Day 4: Ansible Roles
+
+Ansible Roles: https://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse_roles.html
+Ansible Roles Tutorial: https://www.youtube.com/watch?v=Kk-31eI6g1E
+Day 5: Ansible Variables
+
+Ansible Variables: https://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html
+Ansible Variables Tutorial: https://www.youtube.com/watch?v=8WgX9FvDCik
+Week 2:
+
+Day 6: Ansible Conditionals and Loops
+
+Ansible Conditionals and Loops: https://docs.ansible.com/ansible/latest/user_guide/playbooks_conditionals.html
+Ansible Loops and Conditionals Tutorial: https://www.youtube.com/watch?v=8JyQ2mVYhuY
+Day 7: Ansible Templates
+
+Ansible Templates: https://docs.ansible.com/ansible/latest/user_guide/playbooks_templating.html
+Jinja2 Templating in Ansible Playbooks: https://www.youtube.com/watch?v=_eKOKWQMYVY
+Day 8: Ansible Vault
+
+Ansible Vault: https://docs.ansible.com/ansible/latest/user_guide/vault.html
+Ansible Vault Tutorial: https://www.youtube.com/watch?v=6TrJRmk6pmE
+Day 9: Ansible Testing
+
+Ansible Testing: https://docs.ansible.com/ansible/latest/user_guide/test_strategies.html
+Ansible Testing Tutorial: https://www.youtube.com/watch?v=xMKikrcpL8M
+Day 10: Ansible Troubleshooting
+
+Ansible Troubleshooting: https://docs.ansible.com/ansible/latest/user_guide/playbooks_debugger.html
+Debugging Ansible Playbooks: https://www.youtube.com/watch?v=7fO-_pJwGqw

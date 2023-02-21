@@ -1,0 +1,64 @@
+Day 1: Ansible Architecture and Playbooks
+
+Understand the basics of Ansible architecture
+Learn how to write and execute Ansible playbooks
+Use modules and variables in Ansible playbooks
+Explore Ansible roles and best practices for structuring playbooks
+Resources:
+
+Ansible Documentation: https://docs.ansible.com/
+Ansible Playbooks Tutorial: https://www.tutorialspoint.com/ansible/ansible_playbooks.htm
+Ansible Roles: Best Practices: https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html#roles
+Day 2: Advanced Playbook Techniques
+
+Use conditionals and loops in playbooks
+Work with Jinja2 templates in Ansible
+Use Ansible Vault to encrypt sensitive data
+Debug Ansible playbooks
+Resources:
+
+Ansible Loops and Conditionals: https://docs.ansible.com/ansible/latest/user_guide/playbooks_loops.html
+Using Variables: Jinja2 Templates: https://docs.ansible.com/ansible/latest/user_guide/playbooks_templating.html
+Ansible Vault: https://docs.ansible.com/ansible/latest/user_guide/vault.html
+Debugging Playbooks: https://docs.ansible.com/ansible/latest/user_guide/playbooks_debugger.html
+Day 3: Ansible Modules
+
+Learn about the different types of Ansible modules
+Use Ansible modules to manage various resources, including files, services, and packages
+Understand how to write custom Ansible modules
+Resources:
+
+Ansible Modules Index: https://docs.ansible.com/ansible/latest/collections/index_module.html
+Ansible Modules Documentation: https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
+Writing Custom Modules: https://docs.ansible.com/ansible/latest/dev_guide/developing_modules_general.html
+Day 4: Ansible Inventory and Dynamic Inventory
+
+Understand the role of inventory in Ansible
+Learn how to define and manage inventory files
+Work with dynamic inventory and inventory plugins
+Resources:
+
+Ansible Inventory: https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html
+Dynamic Inventory: https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html
+Ansible Inventory Plugins: https://docs.ansible.com/ansible/latest/plugins/inventory.html
+Day 5: Ansible Configuration and Best Practices
+
+Understand the Ansible configuration file and options
+Learn about best practices for working with Ansible
+Learn how to scale Ansible to manage large environments
+Resources:
+
+Ansible Configuration Settings: https://docs.ansible.com/ansible/latest/reference_appendices/config.html
+Ansible Best Practices: https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html
+Scaling Ansible: https://docs.ansible.com/ansible/latest/user_guide/playbooks_strategies.html
+Day 6: Ansible Modules for Cloud Environments
+
+Learn about Ansible modules for managing cloud environments, including AWS, Azure, and GCP
+Understand the role of Ansible in cloud orchestration
+Explore the integration of Ansible with cloud services
+Resources:
+
+Ansible for AWS: https://docs.ansible.com/ansible/latest/collections/amazon/aws/index.html
+Ansible for Azure: https://docs.ansible.com/ansible/latest/collections/azure/azcollection/index.html
+Ansible for GCP: https://docs.ansible.com/ansible/latest/collections/google/cloud/index.html
+Ansible and Cloud Orchestration: https://www.
