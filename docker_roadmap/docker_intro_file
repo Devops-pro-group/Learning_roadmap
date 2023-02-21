@@ -1,0 +1,57 @@
+Week 1: Docker Fundamentals
+
+Day 1: Introduction to Docker
+
+Docker Documentation: https://docs.docker.com/get-started/
+"Docker Tutorial for Beginners" by freeCodeCamp.org: https://www.youtube.com/watch?v=fqMOX6JJhGo
+Day 2: Docker Images
+
+Docker Images Documentation: https://docs.docker.com/images/
+"Docker Images Explained" by TechWorld with Nana: https://www.youtube.com/watch?v=tjthpc7AHuM
+Day 3: Docker Containers
+
+Docker Containers Documentation: https://docs.docker.com/containers/
+"Docker Containers Explained" by TechWorld with Nana: https://www.youtube.com/watch?v=_dfLOzuIg2o
+Day 4: Docker Networking
+
+Docker Networking Documentation: https://docs.docker.com/network/
+"Docker Networking" by TechWorld with Nana: https://www.youtube.com/watch?v=pyCTjHIdei4
+Day 5: Docker Volumes
+
+Docker Volumes Documentation: https://docs.docker.com/storage/volumes/
+"Docker Volumes Explained" by TechWorld with Nana: https://www.youtube.com/watch?v=_J2LGYeOJyM
+Day 6: Docker Compose
+
+Docker Compose Documentation: https://docs.docker.com/compose/
+"Docker Compose Explained" by TechWorld with Nana: https://www.youtube.com/watch?v=Qw9zlE3t8Ko
+Day 7: Dockerfile and Docker Registry
+
+Dockerfile Documentation: https://docs.docker.com/engine/reference/builder/
+Docker Registry Documentation: https://docs.docker.com/registry/
+"Dockerfile Tutorial" by TechWorld with Nana: https://www.youtube.com/watch?v=qw--VYLpxG4
+Week 2: Advanced Docker Concepts
+
+Day 8: Docker Swarm
+
+Docker Swarm Documentation: https://docs.docker.com/engine/swarm/
+"Docker Swarm Explained" by TechWorld with Nana: https://www.youtube.com/watch?v=QvVzeRZvRUE
+Day 9: Docker High Availability
+
+"Docker High Availability" by Docker: https://www.docker.com/blog/docker-high-availability/
+Day 10: Docker Security
+
+Docker Security Documentation: https://docs.docker.com/engine/security/
+"Docker Security" by TechWorld with Nana: https://www.youtube.com/watch?v=IhcykHYx_Rg
+Day 11: Docker Monitoring and Logging
+
+Docker Monitoring Documentation: https://docs.docker.com/config/containers/runmetrics/
+Docker Logging Documentation: https://docs.docker.com/config/containers/logging/
+"Docker Monitoring and Logging" by SysAdmin Academy: https://www.youtube.com/watch?v=CYglvZGd3Iw
+Day 12: Docker with Kubernetes
+
+"Docker and Kubernetes" by Kubernetes: https://kubernetes.io/docs/setup/production-environment/container-runtimes/
+"Docker and Kubernetes Tutorial" by TechWorld with Nana: https://www.youtube.com/watch?v=Qw9zlE3t8Ko
+Day 13: Docker Best Practices
+
+Docker Best Practices Documentation: https://docs.docker.com/develop/dev-best-practices/
+"Docker Best Practices" by Traversy Media: https://www.youtube.com/watch?v=i7ABlHngi1Q

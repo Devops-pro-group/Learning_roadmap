@@ -1,0 +1,42 @@
+Day 1: Introduction to Docker
+
+Start by understanding the basic concepts of Docker. Here are some resources that you can use:
+
+Docker Documentation: https://docs.docker.com/get-started/
+Docker YouTube Channel: https://www.youtube.com/channel/UC0NErq0RhP51iXx64ZmyVfg
+Day 2: Docker Networking
+
+Docker networking is an essential concept to understand. Here are some resources to learn more about it:
+
+Docker Networking Documentation: https://docs.docker.com/network/
+Docker Networking Tutorial: https://www.tutorialspoint.com/docker/docker_networks.htm
+Day 3: Docker Images
+
+Learn how to create, manage and work with Docker images. Here are some resources to help you get started:
+
+Docker Images Documentation: https://docs.docker.com/images/
+Docker Images Tutorial: https://www.tutorialspoint.com/docker/docker_images.htm
+Day 4: Docker Volumes
+
+Docker volumes are an important concept to understand for data persistence. Here are some resources to help you learn more:
+
+Docker Volumes Documentation: https://docs.docker.com/storage/volumes/
+Docker Volumes Tutorial: https://www.tutorialspoint.com/docker/docker_data_volumes.htm
+Day 5: Docker Compose
+
+Docker Compose is a tool for defining and running multi-container Docker applications. Here are some resources to help you learn more:
+
+Docker Compose Documentation: https://docs.docker.com/compose/
+Docker Compose Tutorial: https://www.tutorialspoint.com/docker/docker_compose.htm
+Day 6: Docker Swarm
+
+Docker Swarm is a tool for orchestrating Docker containers in a cluster. Here are some resources to help you learn more:
+
+Docker Swarm Documentation: https://docs.docker.com/engine/swarm/
+Docker Swarm Tutorial: https://www.tutorialspoint.com/docker/docker_swarm.htm
+Day 7: Docker Security
+
+Docker Security is important to understand in order to protect your applications and data. Here are some resources to help you learn more:
+
+Docker Security Documentation: https://docs.docker.com/engine/security/
+Docker Security Tutorial: https://www.tutorialspoint.com/docker/docker_security.htm
