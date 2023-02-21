@@ -1,0 +1,39 @@
+Day 1:
+
+VPCs: Learn about Amazon Virtual Private Cloud (VPC), a logically isolated virtual network within the AWS Cloud, and how to use it to launch AWS resources. Read the AWS VPC User Guide.
+Link: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+VPC Tutorial: Watch the "AWS VPC Tutorial" video to get hands-on experience with creating and configuring a VPC.
+Link: https://www.youtube.com/watch?v=SCo-4OG0zLU
+Day 2:
+
+Subnets: Learn about subnets, a range of IP addresses in your VPC, and how to use them to launch resources in your VPC. Read the AWS VPC Subnets User Guide.
+Link: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html
+Subnets Tutorial: Watch the "AWS VPC Subnets Tutorial" video to get hands-on experience with creating and configuring subnets.
+Link: https://www.youtube.com/watch?v=L5fR5cKgHzY
+Day 3:
+
+Route Tables: Learn about route tables, a set of rules used to determine where network traffic is directed in your VPC. Read the AWS VPC Route Tables User Guide.
+Link: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
+Route Tables Tutorial: Watch the "AWS VPC Route Tables Tutorial" video to get hands-on experience with creating and configuring route tables.
+Link: https://www.youtube.com/watch?v=xEiRvoJfV9E
+Day 4:
+
+NAT Gateways: Learn about Network Address Translation (NAT) gateways, a highly available AWS managed service that makes it easy to connect resources in a private subnet to the internet. Read the AWS NAT Gateway User Guide.
+Link: https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
+NAT Gateways Tutorial: Watch the "AWS NAT Gateway Tutorial" video to get hands-on experience with creating and configuring NAT gateways.
+Link: https://www.youtube.com/watch?v=ZGpR0eemd0s
+Day 5:
+
+Internet Gateways: Learn about internet gateways, a horizontally scalable, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet. Read the AWS Internet Gateway User Guide.
+Link: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
+Internet Gateways Tutorial: Watch the "AWS Internet Gateway Tutorial" video to get hands-on experience with creating and configuring internet gateways.
+Link: https://www.youtube.com/watch?v=KftZPc3wAHk
+Day 6:
+
+VPNs: Learn about AWS Virtual Private Network (VPN), a secure and reliable way to connect your on-premises network or remote site to your AWS VPC. Read the AWS VPN User Guide.
+Link: https://docs.aws.amazon.com/vpn/latest/s2svpn/Welcome.html
+VPN Tutorial: Watch the "AWS VPN Tutorial" video to get hands-on experience with creating and configuring a VPN connection.
+Link: https://www.youtube.com/watch?v=ay8oKs3s9XQ
+Day 7:
+
+Direct Connect: Learn about AWS Direct Connect, a dedicated network connection from your premises to AWS that can reduce your network costs, increase bandwidth throughput, and provide a more consistent network experience. Read

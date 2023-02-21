@@ -1,0 +1,34 @@
+Week 1
+Day 1: Introduction to AWS
+Start with a high-level overview of AWS and its services. You can watch this AWS introductory video on YouTube: Introduction to AWS.
+
+Day 2: Getting Started with EC2
+EC2 is a core service in AWS, and it's essential for deploying your applications in the cloud. Start with this tutorial: Getting Started with Amazon EC2
+
+Day 3: Getting Started with S3
+S3 is an object storage service in AWS that provides scalable storage for your files. Start with this tutorial: Getting Started with Amazon S3
+
+Day 4: AWS CLI and SDKs
+AWS provides various CLI and SDKs for different languages to automate and interact with AWS services. Start with this AWS CLI tutorial: Getting Started with the AWS Command Line Interface
+
+Day 5: AWS IAM
+AWS Identity and Access Management (IAM) is a service that helps you securely control access to AWS services and resources. Start with this tutorial: Getting Started with AWS IAM
+
+Week 2
+Day 6: Amazon RDS
+Amazon Relational Database Service (RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Start with this tutorial: Getting Started with Amazon RDS
+
+Day 7: AWS Elastic Beanstalk
+AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services. Start with this tutorial: Getting Started with AWS Elastic Beanstalk
+
+Day 8: AWS CloudFormation
+AWS CloudFormation is a service that helps you model and set up your Amazon Web Services resources. Start with this tutorial: Getting Started with AWS CloudFormation
+
+Day 9: AWS Lambda
+AWS Lambda is a serverless computing service that lets you run your code without provisioning or managing servers. Start with this tutorial: Getting Started with AWS Lambda
+
+Day 10: AWS ECS
+AWS Elastic Container Service (ECS) is a fully-managed container orchestration service that makes it easy to run, stop, and manage Docker containers on a cluster. Start with this tutorial: Getting Started with Amazon ECS
+
+Day 11-14: Practice and Review
+Use the final four days to practice and review what you've learned. Try to build and deploy a simple application using the services you've learned. You can also check out these AWS practice exercises: AWS Exercises

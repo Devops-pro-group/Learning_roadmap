@@ -1,0 +1,46 @@
+Week 1:
+
+Day 1:
+
+Introduction to AWS Security: Read the AWS Security Whitepaper to understand the AWS shared responsibility model, the different security services and how to implement security best practices.
+Link: https://aws.amazon.com/security/security-resources/
+Video Introduction to AWS Security: Watch the "Introduction to AWS Security" video to get a high-level understanding of AWS Security:
+Link: https://www.youtube.com/watch?v=v3vq8VWlNyM
+Day 2:
+
+IAM: Learn about Identity and Access Management (IAM), the service that controls access to AWS resources. Read the AWS IAM User Guide.
+Link: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+IAM Tutorial: Watch the "AWS IAM Tutorial" video to get hands-on experience with creating users, groups, and roles with IAM.
+Link: https://www.youtube.com/watch?v=KxGRhd_iWuE
+Day 3:
+
+Security Groups: Learn about Security Groups, a fundamental building block of AWS security. Read the AWS Security Group User Guide.
+Link: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+Security Group Tutorial: Watch the "AWS Security Groups Tutorial" video to get hands-on experience with creating and configuring Security Groups.
+Link: https://www.youtube.com/watch?v=zGtnZo9QY_k
+Day 4:
+
+Network ACLs: Learn about Network Access Control Lists (NACLs) and how to use them to control traffic in and out of subnets. Read the AWS Network ACL User Guide.
+Link: https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
+NACL Tutorial: Watch the "AWS Network ACLs Tutorial" video to get hands-on experience with creating and configuring NACLs.
+Link: https://www.youtube.com/watch?v=FwUJ1WUjY6M
+Day 5:
+
+AWS WAF: Learn about AWS Web Application Firewall (WAF), a service that protects web applications from common exploits and attacks. Read the AWS WAF User Guide.
+Link: https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html
+AWS WAF Tutorial: Watch the "AWS WAF Tutorial" video to get hands-on experience with creating and configuring WAF rules.
+Link: https://www.youtube.com/watch?v=6c-6GzRFR6Y
+Week 2:
+
+Day 6:
+
+Encryption: Learn about AWS encryption services, including AWS Key Management Service (KMS), and how to use them to protect data at rest and in transit. Read the AWS Encryption User Guide.
+Link: https://docs.aws.amazon.com/encryption/index.html
+KMS Tutorial: Watch the "AWS KMS Tutorial" video to get hands-on experience with creating and managing keys in KMS.
+Link: https://www.youtube.com/watch?v=qV7KjJDOpZk
+Day 7:
+
+CloudTrail: Learn about AWS CloudTrail, a service that records API calls made on your account. Read the AWS CloudTrail User Guide.
+Link: https://docs.aws.amazon.com/awscloudtrail/latest/userguide/what_is_cloud_trail_top_level.html
+CloudTrail Tutorial: Watch the "AWS CloudTrail Tutorial" video to get hands-on experience with configuring and using CloudTrail.
+Link: https://www.youtube.com/watch?v=9f9bwyPcJz0
