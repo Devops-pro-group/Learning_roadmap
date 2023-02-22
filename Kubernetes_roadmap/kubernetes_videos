@@ -1,7 +1,8 @@
 Day 1: Kubernetes Security
 
 "Kubernetes Security Best Practices" by Mete Atamel: https://www.youtube.com/watch?v=8iLb9krfWGk
-"Kubernetes Security Essentials" by Liz Rice: https://www.youtube.com/watch?v=he21Ijj9XpU
+"Kubernetes Security Essentials" by Liz Rice: https://www.youtube.com/watch?v=jYIJVMacQrA
+
 Day 2: Kubernetes Custom Resource Definitions (CRDs)
 
 "Custom Resource Definitions: Extending Kubernetes APIs" by Marc Boorshtein: https://www.youtube.com/watch?v=2vMEQ5zs1ko
