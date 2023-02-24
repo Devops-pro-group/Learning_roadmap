@@ -1,0 +1,71 @@
+Jeff Zoucho, [2/4/23 2:40 AM]
+thank you
+
+Brice, [2/18/23 1:52 AM]
+Week 1
+
+Day 1: Introduction to Jenkins
+
+Learn about what Jenkins is and why it is used
+Read the Jenkins User Handbook: https://www.jenkins.io/doc/book/
+Day 2: Installing and Configuring Jenkins
+
+Learn how to install and configure Jenkins on your machine
+Jenkins installation guide: https://www.jenkins.io/doc/book/installing/
+Video tutorial on Jenkins installation: https://www.youtube.com/watch?v=FX322rvpKfM
+Day 3: Jenkins Jobs
+
+Learn how to create and configure Jenkins jobs
+Jenkins job documentation: https://www.jenkins.io/doc/book/pipeline/
+Video tutorial on creating a Jenkins job: https://www.youtube.com/watch?v=8A15c1zUJc4
+Day 4: Jenkins Build Triggers
+
+Learn about different types of build triggers in Jenkins
+Jenkins build triggers documentation: https://www.jenkins.io/doc/book/pipeline/syntax/#triggers
+Video tutorial on build triggers in Jenkins: https://www.youtube.com/watch?v=CDz_Eeo_yJY
+Day 5: Jenkins Build Environment
+
+Learn about the Jenkins build environment and how to configure it
+Jenkins build environment documentation: https://www.jenkins.io/doc/book/pipeline/syntax/#environment
+Video tutorial on configuring the build environment: https://www.youtube.com/watch?v=TcGStQJu7g8
+Week 2
+
+Day 6: Jenkins Pipeline
+
+Learn about Jenkins pipelines and how to create them
+Jenkins pipeline documentation: https://www.jenkins.io/doc/book/pipeline/
+Video tutorial on creating a Jenkins pipeline: https://www.youtube.com/watch?v=11kQRyKJfqo
+Day 7: Jenkinsfile
+
+Learn about Jenkinsfile and how to write one
+Jenkinsfile documentation: https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
+Video tutorial on Jenkinsfile: https://www.youtube.com/watch?v=hUgDhUzJUsk
+Day 8: Jenkins Plugins
+
+Learn about Jenkins plugins and how to use them
+Jenkins plugins documentation: https://plugins.jenkins.io/
+Video tutorial on installing and using Jenkins plugins: https://www.youtube.com/watch?v=7vjfOJMIYmY
+Day 9: Jenkins Integration
+
+Learn about Jenkins integration with other tools and systems
+Jenkins integration documentation: https://www.jenkins.io/doc/book/pipeline/integrations/
+Video tutorial on Jenkins integration with Git: https://www.youtube.com/watch?v=tjtlM1iowfA
+Day 10: Jenkins Security
+
+Learn about Jenkins security and how to secure your Jenkins instance
+Jenkins security documentation: https://www.jenkins.io/doc/book/security/
+Video tutorial on securing Jenkins: https://www.youtube.com/watch?v=JdbLnToNnS0
+Day 11: Jenkins Scaling
+
+Learn about scaling Jenkins and running distributed builds
+Jenkins distributed builds documentation: https://www.jenkins.io/doc/book/scaling/
+Video tutorial on scaling Jenkins: https://www.youtube.com/watch?v=3qysO9xz1YI
+Day 12: Jenkins Best Practices
+
+Learn about Jenkins best practices for continuous integration and delivery
+Jenkins best practices documentation: https://www.jenkins.io/doc/book/best-practices/
+Video tutorial on Jenkins pipeline best practices: https://www.youtube.com/watch?v=DK5AHXQhJr8
+Day 13: Jenkins Community
+
+Learn about the Jenkins community and how to get involved
+Jenkins community
