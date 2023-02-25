@@ -6,7 +6,7 @@ Read the "Security" chapter in the Kubernetes Up & Running book by Brendan Burns
 Day 2: Kubernetes Custom Resource Definitions (CRDs)
 
 Read the "Custom Resources" guide on the Kubernetes website: https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/
-Watch the "Kubernetes Custom Resource Definitions (CRDs)" video on the Kubernetes website: https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/#custom-resource-definitions
+Watch the "Kubernetes Custom Resource Definitions (CRDs)" video on the Kubernetes website: https://www.youtube.com/watch?v=rcXwFsh04hs
 Read the "Extending the Kubernetes API with CustomResourceDefinitions" article by Kelsey Hightower: https://kubernetes.io/blog/2017/05/extending-go-client-with-dynamic/
 Day 3: Kubernetes Operators
 
